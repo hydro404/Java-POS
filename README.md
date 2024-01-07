@@ -43,8 +43,7 @@ If you'd like to contribute by improving this one, feel free to open a pull requ
 ## Contributors
 
 - [@hydro404](https://www.github.com/hydro404)
-- 
 ## Acknowledgements
 
-Thanks to all contributors who have helped improve and expand this collection of C language school projects.
+Thanks to all contributors who have helped improve and expand this project.
 
