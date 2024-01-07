@@ -1,0 +1,8 @@
+Item Name , Available, Price per item
+Women Skirt Bluegreen/99/900
+Men Short Hawaiian/9/650
+Skirt Black Decorated/2/199
+Men Long Black Pants/9/850
+Men Flip Flops Black/7/1299
+Sunflower Flip Flops/7/500
+Jennie Kim Sun Hello/8/350
